@@ -1,0 +1,9 @@
+.mainTitle-appear {
+  transform: translateX(-100%);
+}
+
+.mainTitle-appear-active {
+  transform: translateX(0);
+  transition: transform 500ms;
+}
+

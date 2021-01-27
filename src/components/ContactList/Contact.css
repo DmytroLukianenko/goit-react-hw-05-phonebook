@@ -1,0 +1,17 @@
+.contactList-enter {
+  transform: translateX(-300%);
+}
+
+.contactList-enter-active {
+  transform: translateX(0);
+  transition: transform 250ms linear ;
+}
+
+.contactList-exit {
+  transform: translateX(0);
+}
+
+.contactList-exit-active {
+  transform: translateX(-300%);
+  transition: transform 250ms linear;
+}
