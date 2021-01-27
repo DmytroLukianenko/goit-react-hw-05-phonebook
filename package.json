@@ -1,8 +1,7 @@
 {
-    "name": "goit-react-hw-03-phonebook",
+    "name": "goit-react-hw-05-phonebook",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://DmytroLukianenko.github.io/goit-react-hw-03-phonebook",
     "dependencies": {
         "@material-ui/core": "^5.0.0-alpha.23",
         "@material-ui/icons": "^4.11.2",
